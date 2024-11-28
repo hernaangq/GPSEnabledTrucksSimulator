@@ -1,5 +1,4 @@
 ---
-version: '2'
 services:
   kafdrop:
     image: obsidiandynamics/kafdrop:3.8.1
